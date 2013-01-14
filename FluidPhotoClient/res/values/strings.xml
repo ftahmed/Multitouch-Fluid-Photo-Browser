@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Fluid Photo Viewer - Assignment2 Wiktor Zdziechowski</string>
+    <string name="app_name">FluidPhotoClient</string>
+    <string name="viewhello">You received an image!!!</string>
+
+</resources>
