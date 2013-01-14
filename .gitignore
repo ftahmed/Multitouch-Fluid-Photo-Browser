@@ -1,0 +1,8 @@
+.metadata
+*.class
+*.DS_Store
+bin
+build
+dist
+.DS_Store
+.settings
